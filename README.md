@@ -115,7 +115,13 @@ models/
 |20251595006 | Alvaro Zarabanda | teclado | data/raw/20251595006_Teclado.mp4 |
 |20251595006 | Alvaro Zarabanda | mouse | data/raw/20251595006_Mouse.mp4 |
 |20251595006 | Alvaro Zarabanda | pantalla | data/raw/20251595006_Pantalla.mp4 |
-(Agrega tu fila al contribuir)
+|20252695004 | Daniel León      | nada     | data/raw/20252695004_nada.mp4     |
+|20252695004 | Daniel León      | cpu      | data/raw/20252695004_cpu.mp4       |
+|20252695004 | Daniel León      | silla    | data/raw/20252695004_silla.mp4     |
+|20252695004 | Daniel León      | mesa     | data/raw/20252695004_mesa.mp4      |
+|20252695004 | Daniel León      | teclado  | data/raw/20252695004_teclado.mp4   |
+|20252695004 | Daniel León      | mouse    | data/raw/20252695004_mouse.mp4     |
+|20252695004 | Daniel León      | pantalla | data/raw/20252695004_pantalla.mp4  |
 
 ---
 
